@@ -17,5 +17,5 @@ public class GreetingResource {
     // mvn quarkus:list-extensions : to see the list of extensions
     // quarkus-smallrye-openapi : swagger api
     // mvn quarkus:add-extension -Dextensions="quarkus-smallrye-openapi" //adding the swagger dependency into exisiting project
-    // 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
+    
 }
